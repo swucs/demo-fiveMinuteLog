@@ -1,0 +1,8 @@
+### GET request to example server
+POST http://localhost:8080/member
+
+### GET request to example server
+POST http://localhost:8080/memberDBError
+
+### GET request to example server
+POST http://localhost:8080/memberServiceError
